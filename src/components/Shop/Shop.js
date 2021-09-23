@@ -3,7 +3,10 @@ import "./Shop.css";
 const Shop = () => {
   return (
     <div>
-      <h2>This is shop</h2>
+      <div className="d-flex justify-content-between ">
+        <div className="product-container ms-5">Product</div>
+        <div className="cart-area pe-2">cart</div>
+      </div>
     </div>
   );
 };

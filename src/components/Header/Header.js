@@ -38,7 +38,7 @@ const Header = () => {
             id=""
             placeholder="Search your product"
           />
-          <span className="text-light m-2">{Font}</span>
+          <span className="text-light m-2">{Font} 0</span>
         </div>
       </nav>
     </div>
