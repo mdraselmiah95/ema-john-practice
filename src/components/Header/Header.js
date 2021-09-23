@@ -33,7 +33,7 @@ const Header = () => {
         </ul>
         <div className="bg-dark pb-4 text-center">
           <input
-            className="w-50"
+            className="w-75"
             type="text"
             id=""
             placeholder="Search your product"
