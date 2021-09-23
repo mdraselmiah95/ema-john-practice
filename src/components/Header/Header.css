@@ -1,0 +1,12 @@
+.Logo {
+  text-align: center;
+}
+.nav-ul li a {
+  text-decoration: none;
+}
+nav ul li {
+  padding: 20px;
+}
+nav ul li :hover {
+  background-color: antiquewhite;
+}
